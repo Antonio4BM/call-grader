@@ -1,0 +1,11 @@
+.git
+.pytest_cache
+.vscode
+grader_env
+**/__pycache__
+**/*.pyc
+**/*.pyo
+.env
+results
+*.md
+!rubric.md
