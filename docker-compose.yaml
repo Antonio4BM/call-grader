@@ -1,0 +1,12 @@
+services:
+  grader:
+    build: .
+    env_file:
+      - .env
+    environment:
+      OPENROUTER_API_KEY: ${OPENROUTER_API_KEY}
+      OPENROUTER_MODEL: ${OPENROUTER_MODEL}
+      OPENROUTER_MAX_ATTEMPTS: ${OPENROUTER_MAX_ATTEMPTS}
+    volumes:
+      - ./results:/app/results
+    init: true
