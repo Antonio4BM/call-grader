@@ -1,0 +1,21 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Mauricio Leal. Esta llamada puede ser grabada para calidad. ¿Qué se le ofrece?
+[00:08 CUSTOMER] Hola, oiga, me llegó un cargo de doscientos pesos que dice "ajuste" y no sé qué es.
+[00:14 AGENT] ¿Su póliza?
+[00:16 CUSTOMER] CNF-29876.
+[00:18 AGENT] ...Sí, aquí veo el cargo. Es un ajuste por el endoso que se hizo el mes pasado.
+[00:24 CUSTOMER] ¿Cuál endoso? Yo no pedí ningún endoso.
+[00:27 AGENT] Aquí dice que se agregó un conductor adicional el día ocho.
+[00:31 CUSTOMER] Ah... eso fue cuando agregué a mi hijo. Pero la señorita que me atendió me dijo que eran treinta pesos al mes, no doscientos de golpe.
+[00:39 AGENT] Pues son treinta al mes más el prorrateo retroactivo del ciclo. Eso lo explican siempre, señor.
+[00:45 CUSTOMER] A mí no me lo explicaron. Yo entendí treinta pesos y punto.
+[00:49 AGENT] Bueno, pues eso lo hubiera preguntado antes, ¿no? El prorrateo es estándar en cualquier aseguradora.
+[00:55 CUSTOMER] ¿Perdón? Yo pregunté lo que me dijeron. No me hable así.
+[00:59 AGENT] No le estoy hablando de ninguna forma, señor, le estoy explicando cómo funcionan las pólizas, que es diferente.
+[01:05 CUSTOMER] Mire, nomás quiero saber si el cargo es correcto o me lo van a quitar.
+[01:10 AGENT] El cargo es correcto, ya se lo dije. Treinta mensuales más el retroactivo. No hay nada que quitar.
+[01:16 CUSTOMER] ¿Y una disculpa por no haberlo explicado bien la otra vez?
+[01:20 AGENT] Yo no fui el de la otra llamada, señor. Si gusta levanto una queja de servicio sobre esa llamada, eso sí se puede.
+[01:27 CUSTOMER] Pues sí, levántela. Y que quede que el cargo me tomó por sorpresa.
+[01:32 AGENT] Queda levantada la queja con ese comentario. El cargo de doscientos se mantiene porque es correcto. ¿Algo más?
+[01:39 CUSTOMER] No, nada más. Qué manera de atender, de verdad.
+[01:43 AGENT] Que tenga buen día, señor.

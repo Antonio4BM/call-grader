@@ -1,0 +1,21 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Andrea Villalobos. Quick note that this call may be recorded for quality purposes. What can I do for you today?
+[00:09 CUSTOMER] Hi Andrea, I'd like to get a quote for car insurance. My current policy expires end of the month.
+[00:15 AGENT] Happy to help with that. Let me ask you a few things so the quote actually fits you. What vehicle are we insuring?
+[00:22 CUSTOMER] A 2023 Mazda CX-5.
+[00:25 AGENT] Nice car. Who's your current carrier, and what kind of coverage do you have with them?
+[00:30 CUSTOMER] I'm with a national carrier right now, full coverage, five hundred deductible.
+[00:35 AGENT] Got it. And roughly what are you paying, so I know what we're up against?
+[00:40 CUSTOMER] About two ten a month.
+[00:42 AGENT] Okay. Any accidents or claims in the last three years?
+[00:46 CUSTOMER] One windshield claim last year, that's it.
+[00:49 AGENT] That barely counts. And is the CX-5 for personal use, or do you drive for work or any app?
+[00:55 CUSTOMER] Just personal, commuting mostly. About twenty minutes each way.
+[00:59 AGENT] Perfect, so: CX-5 2023, full coverage, five hundred deductible, clean record except glass, personal commute. Let me run it... I can offer you the same coverage structure at one eighty-five a month, and I'll note that's subject to underwriting review, so consider it very close but not final until they confirm.
+[01:16 CUSTOMER] One eighty-five, okay, that's twenty-five bucks better. What would I need to switch?
+[01:22 AGENT] Registration, driver's license, and a copy of your current declarations page so we match the coverage exactly.
+[01:29 CUSTOMER] I can get those together. So what's the next step, do I send them to you?
+[01:34 AGENT] We'll be in touch soon to finalize everything.
+[01:37 CUSTOMER] Oh... okay. Like, this week? Do you call me, or should I call back?
+[01:42 AGENT] Someone from the team will follow up, don't worry.
+[01:46 CUSTOMER] Alright then. Thanks for the quote, Andrea.
+[01:49 AGENT] My pleasure, thanks for calling Seguros Confianza.

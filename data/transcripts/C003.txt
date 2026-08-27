@@ -1,0 +1,15 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Paola Enríquez. Le comento que esta llamada puede ser grabada para calidad. ¿Con quién tengo el gusto?
+[00:08 CUSTOMER] Hola Paola, soy Rodrigo Peña. I got the renewal letter y quería platicar antes de decidir.
+[00:15 AGENT] Claro que sí, don Rodrigo, qué bueno que llamó antes de que venciera. Aquí tengo su póliza en pantalla.
+[00:22 CUSTOMER] Es que honestly no sé si renovar. El Jetta ya tiene sus años y ando pagando lo mismo que cuando estaba nuevo.
+[00:29 AGENT] Sí, veo que su Jetta es 2018. Y tiene razón, el valor del vehículo baja y eso vale la pena revisarlo en la renovación.
+[00:37 CUSTOMER] Exacto. Y la verdad un amigo me dijo que con su aseguradora, creo que es Protecta o algo así, paga como mil doscientos y yo ando en mil quinientos.
+[00:46 AGENT] Ah mira, sí conozco esa compañía. Bueno, comparando contra los mil quinientos que trae ahorita con nosotros, déjeme ver qué le puedo mejorar.
+[00:54 CUSTOMER] Es que tampoco quiero cambiarme por cambiarme, you know? Pero mil quinientos al mes ya me pesa, con eso de que mi hija entró a la universidad.
+[01:03 AGENT] Claro, felicidades a su hija por cierto. Entonces la meta sería quedar más cerca de lo que paga su amigo, sin perder lo que ya tiene.
+[01:11 CUSTOMER] Ándale, eso mero. Y que no me quiten los cristales, porque el año pasado me tocó usar eso.
+[01:17 AGENT] Lo recuerdo, aquí está el registro del cristal. Muy bien, entonces: Jetta 2018, cobertura amplia con cristales, y buscamos bajar de mil quinientos... Con el ajuste de valor del vehículo y un descuento de renovación que le puedo aplicar, le queda en mil doscientos ochenta mensuales, misma cobertura, cristales incluidos.
+[01:34 CUSTOMER] ¿En serio? That works, la verdad.
+[01:37 AGENT] Perfecto. Le renuevo con ese monto entonces. Le va a llegar la póliza renovada hoy mismo a su correo, y el primer cargo con el monto nuevo sale el día quince como siempre. ¿Alguna otra cosa que quiera revisar?
+[01:48 CUSTOMER] No, eso era todo. Gracias Paola, me quitaste un pendiente.
+[01:52 AGENT] Para servirle, don Rodrigo. Saludos a su hija y excelente día.

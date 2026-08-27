@@ -1,0 +1,17 @@
+[00:01 AGENT] Hello? Yes, hi, you've reached insurance, this is Marco.
+[00:06 CUSTOMER] Hi... is this Seguros Confianza? I got a mailer about auto insurance.
+[00:11 AGENT] Yeah, yeah, that's us. So listen, you called at a good time because we have a full coverage promotion running right now.
+[00:19 CUSTOMER] Oh, okay. Well I mostly wanted to ask about...
+[00:22 AGENT] It's our Total Protect package, full coverage, roadside, rental car, glass, everything bundled. Most people are paying around one sixty a month for it and honestly it's the best product we've had.
+[00:33 CUSTOMER] That sounds like a lot more than I need though. I have an older truck and I really just...
+[00:38 AGENT] See, that's what everyone says, and then something happens and they wish they had the full package. Trust me, I've been doing this a while.
+[00:46 CUSTOMER] Okay but you haven't even asked me what truck I have.
+[00:50 AGENT] Sure, what is it?
+[00:52 CUSTOMER] It's a 2009 Ford Ranger. I only drive it on weekends.
+[00:56 AGENT] Okay, Total Protect would still cover all of that, weekends, weekdays, whatever you need. Oh, and I should mention this call may be recorded for quality.
+[01:05 CUSTOMER] Alright... look, can you just tell me what a basic liability policy would cost for that truck?
+[01:11 AGENT] Basic liability, sure, but honestly the difference in price is not that big and the difference in protection is huge. I really think Total Protect is the way to go for you.
+[01:21 CUSTOMER] You don't know anything about me, though. Okay, you know what, I'll think about it.
+[01:26 AGENT] Sounds good, you have our number on the mailer.
+[01:29 CUSTOMER] ...Right. Bye.
+[01:31 AGENT] Take care.

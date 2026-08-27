@@ -1,0 +1,17 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Daniel Osuna speaking. Please note this call may be recorded for quality purposes. How may I help you?
+[00:09 CUSTOMER] Hi Daniel. I'm moving from San Diego to Tijuana next month and I need to figure out what happens with my car insurance.
+[00:16 AGENT] Great question, and you're calling at the right time. Let me understand your situation first. Will the car stay US-plated, or are you planning to nationalize it?
+[00:25 CUSTOMER] Keeping the US plates for now. It's a 2022 Honda CR-V.
+[00:29 AGENT] Got it. And will you be crossing regularly, like living in Tijuana but working in San Diego?
+[00:35 CUSTOMER] Exactly that. Daily crossing, SENTRI lane.
+[00:38 AGENT] Perfect, very common setup here. Do you currently have a US policy, and do you know if it covers you in Mexico at all?
+[00:45 CUSTOMER] I have one, and I think it covers like a few miles into Mexico? Honestly no idea.
+[00:50 AGENT] Most US policies cover a narrow border zone at most, and Mexican liability is legally required here regardless. Perdón, ¿le sigo en español o en inglés? Noté el acento de acá.
+[00:59 CUSTOMER] Ja, sí soy de aquí. En español está bien, la verdad hasta más cómodo.
+[01:04 AGENT] Perfecto. Entonces lo que usted necesita es una póliza mexicana de responsabilidad civil como mínimo, y le recomendaría cobertura amplia del lado mexicano dado que el carro va a vivir aquí. Su póliza americana la mantiene para cuando esté allá.
+[01:16 CUSTOMER] Makes sense. ¿Y como cuánto me saldría la amplia para la CR-V?
+[01:21 AGENT] Con los datos que me dio: CR-V 2022, cruce diario, cobertura amplia... le queda en mil setecientos cincuenta mensuales, sujeto a suscripción. Incluye asistencia legal en México, que en un accidente aquí es lo que más se agradece.
+[01:34 CUSTOMER] Sold. What do you need from me?
+[01:37 AGENT] Título o registración del carro, su licencia, y comprobante de domicilio en Tijuana cuando lo tenga. Le mando la lista y la cotización a su correo ahorita mismo, y le llamo el lunes a las once para ver si ya juntó todo y activamos antes de su mudanza. ¿Le funciona?
+[01:50 CUSTOMER] Perfecto, Daniel. Muy fácil todo, gracias.
+[01:53 AGENT] Un placer. Bienvenido de regreso a Tijuana y excelente fin de semana.

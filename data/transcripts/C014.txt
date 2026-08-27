@@ -1,0 +1,17 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Karla Zúñiga. Esta llamada puede ser grabada para calidad, le comento. ¿En qué le ayudo?
+[00:08 CUSTOMER] Hola Karla, buen día. Quiero cotizar el seguro para el carro de mi esposa, un Toyota Corolla 2024.
+[00:15 AGENT] Con gusto. ¿El Corolla ya lo tienen o está por entregarse?
+[00:19 CUSTOMER] Ya lo tenemos, apenas lo recogimos el sábado.
+[00:22 AGENT] Felicidades. ¿Y su esposa sería la conductora principal?
+[00:26 CUSTOMER] Sí, ella lo va a manejar diario para el trabajo.
+[00:29 AGENT] Perfecto. ¿Buscan cobertura amplia o algo más básico?
+[00:33 CUSTOMER] Amplia, es carro nuevo. Eso sí, necesito la cotización a más tardar el miércoles, porque el jueves se vence la promoción del seguro que nos ofreció la agencia y quiero comparar antes de decidir.
+[00:44 AGENT] Entendido, el miércoles es la fecha límite entonces, lo anoto. Corolla 2024, conductora principal su esposa, uso diario al trabajo, cobertura amplia.
+[00:53 CUSTOMER] Exacto, así es.
+[00:55 AGENT] Necesito armar la cotización con el área de suscripción porque los modelos 2024 traen tarifas nuevas este mes, no quiero darle un número al aire.
+[01:03 CUSTOMER] Está bien, mientras sea antes del jueves no hay problema.
+[01:07 AGENT] Claro que sí. ¿Algo más que quiera que incluya la cotización, asistencia vial, auto sustituto?
+[01:13 CUSTOMER] Auto sustituto sí estaría bien, mi esposa no puede quedarse sin carro.
+[01:17 AGENT] Anotado, cobertura amplia con auto sustituto. Muy bien, señor Camacho, quedamos así entonces: le llamo el viernes con la cotización de su Civic, ¿le parece?
+[01:27 CUSTOMER] Eh... bueno, sí, gracias. Ahí espero la llamada.
+[01:31 AGENT] Excelente, que tenga muy buen día y saludos a su esposa.

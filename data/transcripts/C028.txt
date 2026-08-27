@@ -1,0 +1,9 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Omar Valle, and this call may be recorded. How can I help?
+[00:07 CUSTOMER] Hi, sorry, I'm about to walk into a meeting, I literally have one minute. I got a letter about my renewal options and I have questions.
+[00:15 AGENT] No problem, let's not rush it then. Just to confirm, this is about the renewal on your policy ending in 4471, the CR-V?
+[00:23 CUSTOMER] That's the one.
+[00:25 AGENT] Perfect. Here's what I'll do: I'll call you tomorrow at 4pm from this same number with the renewal options laid out, and we'll go through your questions properly. Does 4pm work?
+[00:35 CUSTOMER] Four works great.
+[00:37 AGENT] Done, you're on my calendar for tomorrow at 4pm, and I'm noting your questions are about the renewal letter so we start right there. Go make your meeting.
+[00:45 CUSTOMER] Perfect, thank you! Talk tomorrow.
+[00:47 AGENT] Talk tomorrow, thanks for calling Seguros Confianza.

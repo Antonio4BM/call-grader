@@ -1,0 +1,17 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, my name is Patricia Yee. This call may be recorded for quality purposes. How can I help?
+[00:08 CUSTOMER] Hi, I'd like a quote for my car, please.
+[00:11 AGENT] Sure thing. What's the vehicle?
+[00:14 CUSTOMER] A 2019 Jeep Compass.
+[00:16 AGENT] Okay, a 2019 Compass. Give me one second to pull up the rater... Do you want full coverage or liability only?
+[00:24 CUSTOMER] Full coverage I think. That's what I have now.
+[00:27 AGENT] Alright, full coverage on the Compass... I'm showing one fifty-five a month with a five hundred deductible, and that's subject to underwriting confirmation.
+[00:36 CUSTOMER] Hmm, that's about the same as what I pay. I was hoping to save some money honestly.
+[00:41 AGENT] I hear you. Without knowing more I'd say the deductible is the main lever, going to a thousand would drop it to around one forty.
+[00:49 CUSTOMER] Okay... and are there discounts or anything?
+[00:52 AGENT] There can be, depending on your situation. The quote I gave is the standard rate.
+[00:57 CUSTOMER] Alright. Well, let me compare with my renewal and see.
+[01:01 AGENT] Sounds good. We'll follow up with you on that quote.
+[01:05 CUSTOMER] Sure. When, though?
+[01:07 AGENT] Someone will reach out this week or so.
+[01:10 CUSTOMER] Okay. Thanks, Patricia.
+[01:12 AGENT] Thank you for calling Seguros Confianza, have a good one.

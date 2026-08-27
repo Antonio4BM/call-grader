@@ -1,0 +1,21 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Mariana Solís. Antes de comenzar le comento que esta llamada puede ser grabada para fines de calidad. ¿En qué le puedo servir?
+[00:09 CUSTOMER] Hola, buenas tardes. Quiero cotizar un seguro para mi carro, ando viendo opciones.
+[00:14 AGENT] Con mucho gusto. Para darle la mejor opción le voy a hacer unas preguntas rápidas. ¿Qué vehículo es, año y modelo?
+[00:21 CUSTOMER] Es un Nissan Sentra 2021, versión Advance.
+[00:25 AGENT] Perfecto. ¿Actualmente cuenta con algún seguro o estaría contratando por primera vez?
+[00:31 CUSTOMER] Tengo uno con otra compañía pero se me vence en dos semanas y me subieron mucho.
+[00:37 AGENT] Entiendo. ¿Me puede decir aproximadamente cuánto está pagando al mes ahorita, para buscarle algo que le convenga?
+[00:44 CUSTOMER] Como mil ochocientos pesos mensuales, cobertura amplia.
+[00:49 AGENT] Muy bien. ¿Y qué es lo más importante para usted, mantener la cobertura amplia o bajar el pago mensual?
+[00:56 CUSTOMER] Las dos cosas si se puede, pero sobre todo no pagar tanto.
+[01:02 AGENT] Claro. ¿El carro lo usa para trabajo, plataforma, o solo uso personal?
+[01:08 CUSTOMER] Solo personal, casa y trabajo.
+[01:12 AGENT] Perfecto, entonces confirmo: Sentra 2021 Advance, uso personal, cobertura amplia, buscando bajar de mil ochocientos mensuales. ¿Correcto?
+[01:20 CUSTOMER] Exacto.
+[01:22 AGENT] Déjeme correr la cotización... Le tengo cobertura amplia con deducible del cinco por ciento en mil cuatrocientos veinte pesos mensuales. Le aclaro que la cifra queda sujeta a la revisión final de suscripción, pero con los datos que me da no veo ningún problema.
+[01:38 CUSTOMER] Órale, sí me conviene. ¿Qué necesito?
+[01:42 AGENT] Su tarjeta de circulación y una identificación. Se los mando por correo en este momento junto con la cotización formal. ¿Su correo sigue siendo el que termina en gmail punto com?
+[01:52 CUSTOMER] Sí, ese mero.
+[01:54 AGENT] Listo, ya va en camino. Mañana le llamo a las diez de la mañana para confirmar que le llegó todo y si gusta dejamos la póliza activa desde ese momento. ¿Le parece?
+[02:05 CUSTOMER] Perfecto, muchas gracias Mariana.
+[02:08 AGENT] Gracias a usted por su confianza. Que tenga excelente tarde.

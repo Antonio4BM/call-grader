@@ -1,0 +1,18 @@
+[00:01 AGENT] Muy buenas tardes, gracias por llamar a Seguros Confianza, le atiende Óscar Manríquez, para servirle. ¿En qué le puedo ayudar el día de hoy?
+[00:09 CUSTOMER] Hola, buenas. Quiero asegurar mi carro, apenas lo saqué de la agencia la semana pasada.
+[00:15 AGENT] ¡Felicidades por el carro nuevo! Con mucho gusto lo ayudo. Cuénteme, ¿qué vehículo es?
+[00:21 CUSTOMER] Es un Kia Seltos 2026, el GT Line.
+[00:24 AGENT] Excelente elección. ¿Es su primer seguro o viene de otra compañía?
+[00:29 CUSTOMER] Tenía seguro con mi carro anterior pero lo cancelé cuando lo vendí, hace como tres meses.
+[00:35 AGENT] Perfecto, lo tomo en cuenta. ¿Y el Seltos es de contado o financiado? Se lo pregunto porque si es financiado la financiera normalmente exige cobertura amplia.
+[00:44 CUSTOMER] Financiado a cuatro años.
+[00:46 AGENT] Entonces cobertura amplia sí o sí. ¿Qué uso le va a dar, personal o también trabajo?
+[00:52 CUSTOMER] Personal, y los fines de semana salimos a Rosarito seguido.
+[00:56 AGENT] Muy bien. ¿Alguien más va a manejar el carro regularmente, su esposa, hijos?
+[01:01 CUSTOMER] Mi esposa a veces, pero casi siempre yo.
+[01:04 AGENT] Perfecto. Entonces: Seltos 2026 GT Line financiado, cobertura amplia obligatoria, uso personal, conductor principal usted. Déjeme cotizarle... Le queda en dos mil cien pesos mensuales con deducible del cinco por ciento, y le incluye asistencia en carretera, que para sus salidas a Rosarito le va a servir. El monto queda sujeto a la revisión de suscripción, pero es prácticamente el final.
+[01:23 CUSTOMER] Suena bien. ¿Y puedo empezar hoy? La agencia me trae con prisa por lo del financiamiento.
+[01:29 AGENT] Claro que sí. Le mando ahorita mismo a su correo la solicitud y la lista de documentos: tarjeta de circulación, identificación y carátula del financiamiento. En cuanto me los regrese, activamos. Y le llamo yo mañana a las nueve de la mañana para cerrar todo, ¿le parece?
+[01:44 CUSTOMER] Perfecto, así le hacemos.
+[01:47 AGENT] Excelente. Cualquier duda antes de mañana me marca directo a esta línea y pregunta por Óscar Manríquez. Felicidades otra vez por el Seltos y gracias por confiar en Seguros Confianza.
+[01:57 CUSTOMER] Gracias a ti, Óscar. Hasta mañana.

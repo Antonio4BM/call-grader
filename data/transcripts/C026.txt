@@ -1,0 +1,20 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Rosario Ontiveros. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le puedo servir?
+[00:10 CUSTOMER] Buenas tardes, señorita... hable un poquito más fuerte si es tan amable, es que no oigo muy bien.
+[00:17 AGENT] Claro que sí, con mucho gusto. ¿Así me escucha mejor?
+[00:21 CUSTOMER] Sí, así sí. Mire, llamo porque mi hijo me dijo que le llamara, que ya me toca renovar el seguro del carro y que no se me fuera a pasar.
+[00:31 CUSTOMER] Es un Tsuru... no, espere... ya no es el Tsuru, es el Aveo. El Aveo rojo.
+[00:38 AGENT] No se preocupe, aquí lo revisamos con calma. ¿Me da su nombre completo?
+[00:43 CUSTOMER] Manuela Reyes viuda de Ortega.
+[00:46 AGENT] Gracias, señora Manuela... aquí la tengo. Efectivamente, es el Aveo 2019 rojo, y su renovación vence el día treinta de este mes, o sea en nueve días. Qué bueno que llamó a tiempo.
+[00:57 CUSTOMER] Ay, sí, mi hijo estaba preocupado. ¿Y cuánto va a ser ahora? ¿Sube mucho?
+[01:03 AGENT] Le explico: su renovación queda en ochocientos noventa pesos al mes. Ahorita paga ochocientos setenta, o sea sube veinte pesos nada más.
+[01:12 CUSTOMER] ¿Veinte pesos dice? ¿O sea que voy a pagar... perdón, ¿cuánto dijo que quedaba en total?
+[01:18 AGENT] Ochocientos noventa pesos al mes, señora. Se lo repito con gusto las veces que necesite: ochocientos noventa.
+[01:25 CUSTOMER] Ochocientos noventa... déjeme apuntarlo... ya. ¿Y mi cobertura queda igual? Mi hijo dice que no vaya yo a aceptar que me quiten cosas.
+[01:35 AGENT] Dígale a su hijo que queda exactamente igual: cobertura amplia, cristales y asistencia vial, nada se quita. ¿Quiere que se lo confirme también a él? Puedo mandar la confirmación a dos correos.
+[01:46 CUSTOMER] Ay, sí, mándesela a él también porque yo el correo casi no lo uso. Él es Jorge Ortega Reyes.
+[01:53 AGENT] Aquí lo tengo como contacto autorizado, perfecto. Entonces: renovada su póliza del Aveo en ochocientos noventa mensuales, misma cobertura, y la confirmación va a su correo y al de su hijo Jorge hoy mismo. Además le va a llegar su póliza impresa por correo postal a su domicilio en unos diez días.
+[02:09 CUSTOMER] ¿Impresa también? Qué bueno, porque yo los papeles los quiero tener en mi carpeta.
+[02:14 AGENT] Así se hará, señora Manuela. ¿Hay algo más en que le pueda ayudar el día de hoy?
+[02:19 CUSTOMER] No, señorita, muy amable. Que Dios la bendiga por su paciencia.
+[02:23 AGENT] Igualmente, señora, fue un gusto atenderla. Cuídese mucho.

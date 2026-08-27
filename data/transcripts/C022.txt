@@ -1,0 +1,21 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Roberto Anaya. Please note this call may be recorded for quality purposes. How can I help you today?
+[00:09 CUSTOMER] Hi Roberto. I sold my old car this weekend and bought a new one, so I need to swap the vehicle on my policy.
+[00:16 AGENT] Congratulations on the new car! I can take care of that right now. Can I have your policy number?
+[00:22 CUSTOMER] CNF-61054.
+[00:24 AGENT] Thank you... I have it, Ms. Padilla, currently showing a 2017 Sentra. What's the new vehicle?
+[00:31 CUSTOMER] A 2024 Toyota RAV4, the XLE.
+[00:34 AGENT] Nice upgrade. Is it financed or paid in full? I ask because financing usually requires full coverage.
+[00:40 CUSTOMER] Financed, five years.
+[00:42 AGENT] Got it, so we'll keep full coverage. Same primary driver, just you? Same usage, personal commuting?
+[00:48 CUSTOMER] Yes, everything else stays the same.
+[00:51 AGENT] Perfect. I need the VIN when you have it handy.
+[00:54 CUSTOMER] I have it right here on the paperwork... it's JTMB6RFV5RD088214.
+[01:01 AGENT] Let me read that back: JTMB6RFV5RD088214. Correct?
+[01:07 CUSTOMER] Correct.
+[01:08 AGENT] Great. Running the change... okay, the RAV4 is on the policy effective right now, full coverage. Your premium goes from one thirty to one seventy-eight monthly given the newer vehicle, starting next cycle.
+[01:20 CUSTOMER] That's about what I expected.
+[01:22 AGENT] The old Sentra is now removed as of today, so no double charge. You'll receive the updated declarations page and the new ID cards by email within the hour, and the physical cards by mail in about a week.
+[01:34 CUSTOMER] Perfect, and I can use the emailed cards in the meantime, right?
+[01:37 AGENT] Exactly, the digital ones are valid immediately. To recap: RAV4 added with full coverage effective today, Sentra removed, new premium one seventy-eight starting next cycle, documents in your inbox within the hour. Anything else?
+[01:50 CUSTOMER] Nope, that covers it. Quick and painless, thank you Roberto.
+[01:54 AGENT] My pleasure, Ms. Padilla. Enjoy the RAV4 and thanks for calling Seguros Confianza.

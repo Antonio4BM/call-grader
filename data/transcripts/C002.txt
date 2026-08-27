@@ -1,0 +1,17 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Kevin Ruiz speaking. Just to let you know, this call may be recorded for quality purposes. How can I help you today?
+[00:09 CUSTOMER] Hi, yeah, I got my statement this month and the charge looks higher than usual. I want to know why.
+[00:16 AGENT] I can look into that for you. Can I have your policy number or the phone number on the account?
+[00:22 CUSTOMER] Sure, it's 664-555-0198.
+[00:26 AGENT] Thank you, one moment... okay, I have your account pulled up here, Mr. Delgado.
+[00:33 CUSTOMER] So why did it go up? I was paying one twenty and now it says one forty-five.
+[00:39 AGENT] I see the charge here for one forty-five. Let me check the billing screen... I do see the amount changed with this cycle.
+[00:48 CUSTOMER] Right, but why? Did my rate change? Did I get charged a fee or something?
+[00:53 AGENT] That's a good question. I'm not seeing a note on the account that explains it right away. It could be a rate adjustment or a fee, I'd have to have the billing team review it.
+[01:04 CUSTOMER] Okay... so what do I do?
+[01:07 AGENT] I'm going to flag your account for the billing department so they can take a look at what happened with this cycle.
+[01:14 CUSTOMER] And then what, they call me? How long does that take?
+[01:18 AGENT] They'll review it and someone will reach out to you. We'll look into it and be in touch.
+[01:24 CUSTOMER] Alright... I guess. I just don't want to get charged again next month without knowing why.
+[01:30 AGENT] I completely understand, and it's noted on the account. Is there anything else I can help you with today?
+[01:36 CUSTOMER] No, that was it.
+[01:38 AGENT] Thank you for calling Seguros Confianza, have a great day.

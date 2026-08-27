@@ -1,0 +1,19 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atien...
+[00:03 CUSTOMER] ¡Choqué! ¡Acabo de chocar ahorita, hace cinco minutos! ¡No sé qué hacer, es la primera vez que me pasa!
+[00:09 AGENT] Tranquila, aquí la voy a ayudar con todo, paso por paso. Lo primero y más importante: ¿usted está bien? ¿Hay alguien lastimado?
+[00:16 CUSTOMER] No, no, todos estamos bien, fue un golpe fuerte pero nadie está herido. El otro señor también está bien.
+[00:22 AGENT] Qué alivio, eso es lo que importa. Le comento rápido que esta llamada puede ser grabada, y ahora sí, vamos con lo suyo. ¿Me dice dónde está exactamente?
+[00:31 CUSTOMER] En el bulevar Agua Caliente, casi llegando a la glorieta, enfrente de una farmacia.
+[00:36 AGENT] Perfecto, ubicado. ¿Los carros están estorbando el tráfico? Si se pueden mover a un lugar seguro sin riesgo, muévanlos, si no, déjenlos donde están.
+[00:44 CUSTOMER] Ya los orillamos los dos.
+[00:46 AGENT] Muy bien hecho. ¿El otro conductor está cooperando? ¿Ya intercambiaron datos o prefiere esperar al ajustador?
+[00:52 CUSTOMER] Está tranquilo el señor, dice que esperamos al ajustador.
+[00:56 AGENT] Perfecto. ¿Me da su número de póliza o su nombre completo para abrir el reporte?
+[01:01 CUSTOMER] Sandra Iñiguez Prado. La póliza no la traigo a la mano, ando muy nerviosa.
+[01:06 AGENT] No se preocupe, con su nombre la encuentro... ya está. Le pido algo mientras: tome fotos de los dos carros, de las placas y del lugar en general, desde varios ángulos. Eso le va a servir mucho al ajustador.
+[01:17 CUSTOMER] Okay, okay, ahorita las tomo.
+[01:19 AGENT] Ya quedó abierto su siniestro, apunte por favor: SIN-7788. El ajustador le va a llamar a este mismo número en máximo dos horas, aunque normalmente es antes de una. Si en dos horas no le ha marcado, llámenos y damos seguimiento inmediato.
+[01:33 CUSTOMER] SIN-7788, ya lo apunté. ¿Y no me van a cobrar algo por el reporte o algo así?
+[01:38 AGENT] No, el reporte no tiene ningún costo. Lo del deducible ya se lo explicará el ajustador según cómo se determine el siniestro, pero eso es después, hoy enfóquese en las fotos y en esperar su llamada.
+[01:49 CUSTOMER] Está bien. Muchas gracias, de verdad, ya me siento menos perdida.
+[01:53 AGENT] Para eso estamos, Sandra. Respire hondo, todos están bien, que es lo importante. Quedamos pendientes de usted.

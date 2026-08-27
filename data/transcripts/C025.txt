@@ -1,0 +1,19 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Alicia Bermúdez. Just so you know, this call may be recorded for quality. How can I help you today?
+[00:09 CUSTOMER] Hi Alicia, I'm shopping around for insurance on a truck I'm about to buy. Want to see your numbers.
+[00:16 AGENT] Happy to run that for you. What's the truck?
+[00:19 CUSTOMER] A 2023 Ram 1500, the Big Horn.
+[00:22 AGENT] Nice truck. Is it for personal use, or work? Hauling, job sites, anything like that?
+[00:27 CUSTOMER] Mostly personal, occasionally I tow a small boat in summer.
+[00:31 AGENT] Good to know, towing matters. Any accidents or violations in the last three years?
+[00:36 CUSTOMER] Clean record.
+[00:38 AGENT] And what coverage are you looking for? Full coverage, liability only?
+[00:42 CUSTOMER] Full coverage. The truck's too new to gamble with.
+[00:45 AGENT] Agreed. Okay: 2023 Ram 1500 Big Horn, personal use with occasional towing, clean record, full coverage... I'm showing two twenty-five a month with a five hundred deductible.
+[00:56 CUSTOMER] Two twenty-five. Hmm. Look, I've been burned before, I got quoted one price and after all the paperwork it came back forty dollars higher. Is this two twenty-five real or is it going to change on me?
+[01:07 AGENT] No, that's your final rate, locked in, no matter what underwriting finds. Two twenty-five is what you'll pay.
+[01:14 CUSTOMER] Locked in. You're sure? Because I will hold you to that.
+[01:18 AGENT] Absolutely, that's the number. We don't play games with quotes here.
+[01:23 CUSTOMER] Alright, that's what I like to hear. What do you need from me?
+[01:27 AGENT] Once you complete the purchase, send us the registration, your license, and the VIN. I'm emailing you the quote and the document list right now, and I'll call you Friday at noon to see where you are with the purchase. Sound good?
+[01:39 CUSTOMER] Sounds good. Friday at noon, I'll have the truck by then.
+[01:43 AGENT] Perfect. Congratulations in advance on the Ram, and thanks for calling Seguros Confianza.

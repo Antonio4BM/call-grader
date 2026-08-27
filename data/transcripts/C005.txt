@@ -1,0 +1,15 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Diana Cornejo. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le ayudo?
+[00:08 CUSTOMER] ¡En que me expliquen por qué me están robando! Me llegó la renovación con casi cuatrocientos pesos más al mes, ¡cuatrocientos! ¡Y ni un accidente he tenido!
+[00:18 AGENT] Lamento mucho la molestia, y le agradezco que llame para revisarlo. Vamos a verlo juntos ahorita mismo. ¿Me da su número de póliza por favor?
+[00:26 CUSTOMER] CNF-88214. Y le digo de una vez, si esto no se arregla me voy con otra compañía hoy mismo.
+[00:33 AGENT] Lo entiendo perfectamente y es su derecho. Permítame un momento... Ya tengo su póliza, señor Ávila. ¿Le llegó el aviso de renovación por correo la semana pasada, verdad?
+[00:43 CUSTOMER] Sí, el papelito ese donde nomás dicen el monto nuevo sin explicar nada.
+[00:48 AGENT] Tiene razón en que el aviso no lo explica bien, y le ofrezco una disculpa por eso. Ya encontré la causa: en su zona hubo un ajuste de tarifa por robo de vehículos, y su Tacoma está en la lista de modelos con mayor incidencia. No es nada que usted haya hecho.
+[01:03 CUSTOMER] ¿O sea que yo pago porque a otros les roban la camioneta? Qué bonito.
+[01:08 AGENT] Entiendo el coraje, de verdad. Lo que sí puedo hacer es ajustar la póliza para amortiguar el golpe. Veo que trae deducible del tres por ciento en robo. Si lo movemos al cinco, que sigue siendo un deducible razonable, la renovación le queda solo ciento veinte pesos arriba de lo actual en lugar de cuatrocientos.
+[01:24 CUSTOMER] ¿Ciento veinte? A ver, ¿y eso qué tanto me afecta si me la roban?
+[01:29 AGENT] Si llegara a pasar, pagaría el cinco por ciento del valor de la camioneta como deducible en vez del tres. En su caso son unos ocho mil pesos de diferencia en ese escenario, contra ahorrarse más de tres mil pesos al año seguros.
+[01:41 CUSTOMER] ...Está bien, hágale así. Pero de verdad deberían explicar estas cosas en el aviso.
+[01:47 AGENT] Se lo tomo como retroalimentación y lo voy a reportar, en serio. Ya quedó aplicado el cambio. Hoy antes de las cinco de la tarde le llega el correo de confirmación con el nuevo monto de mil seiscientos veinte. Si no le llega, me marca directo.
+[01:59 CUSTOMER] Va. Gracias por arreglarlo, oiga. Disculpe el tono de hace rato.
+[02:04 AGENT] No se preocupe, para eso estamos. Gracias por su paciencia, señor Ávila. Excelente día.

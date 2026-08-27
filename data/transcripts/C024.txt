@@ -1,0 +1,17 @@
+[00:01 AGENT] Bueno, buenas tardes, le atiende Joel. Ah, y le comento que this call may be recorded, ¿eh? ¿Qué onda, en qué le ayudo?
+[00:09 CUSTOMER] Hola Joel, mira, tengo un problema con mi app. No me deja ver mi póliza, me dice error cada vez que entro. I've tried like ten times.
+[00:18 AGENT] Ah, el error de la app, sí. ¿Qué le aparece exactamente, un error de login o ya adentro?
+[00:24 CUSTOMER] Ya adentro. Entro bien con mi correo, pero cuando le pico a "Mi Póliza" se queda cargando y luego dice "error de conexión", but my wifi is fine porque todo lo demás jala.
+[00:34 AGENT] Okay okay. ¿Y qué teléfono trae, iPhone o Android?
+[00:38 CUSTOMER] iPhone 14.
+[00:40 AGENT] Mmm, déjeme checar una cosa... ¿me da su número de póliza mientras?
+[00:45 CUSTOMER] CNF-84930.
+[00:47 AGENT] Gracias... a ver... oiga, ¿y ya intentó lo de... espérame, ¿qué le estaba preguntando? Ah sí, la app. ¿Ya la desinstaló y volvió a instalar?
+[00:57 CUSTOMER] Yes, twice. Same thing.
+[00:59 AGENT] Okay, entonces no es de su lado. Déjeme ver su cuenta en el sistema... ¡ah, mire! Ya vi. Su cuenta de la app está ligada a un correo viejo, uno de yahoo, y su póliza está con el de gmail. Por eso truena, está buscando una póliza que no existe en esa cuenta.
+[01:13 CUSTOMER] Ohhh, that makes sense. Sí cambié de correo el año pasado.
+[01:17 AGENT] Eso es. Mire, ahorita mismo le migro la cuenta de la app al correo de gmail... listo. Cierre sesión en la app, vuelva a entrar con el gmail y le va a pedir crear contraseña nueva.
+[01:28 CUSTOMER] Okay hold on, déjame intentarlo... entré... picándole a Mi Póliza... ¡ya salió! There it is, ya la veo completa.
+[01:37 AGENT] ¡Eso! Ya quedó entonces. Cualquier otra cosa con la app nos marca.
+[01:42 CUSTOMER] Perfecto, gracias Joel, you saved me un viaje a la oficina.
+[01:46 AGENT] Jaja, para eso estamos. Buenas tardes.

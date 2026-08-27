@@ -1,0 +1,17 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Ramiro Cepeda. This call may be recorded for quality purposes. ¿En qué le sirvo?
+[00:08 CUSTOMER] Hola, quiero cambiar mi forma de pago, ahorita me cobran a la tarjeta de crédito y quiero que sea débito.
+[00:15 AGENT] Claro que sí. ¿Me confirma su póliza?
+[00:18 CUSTOMER] CNF-90233.
+[00:20 AGENT] Gracias, señor Ibarra... aquí lo tengo. Antes de hacer el cambio, ¿sigue manejando el mismo Tucson 2022? ¿Ningún cambio de uso, sigue siendo personal?
+[00:29 CUSTOMER] Sí, todo igual. Same car, same everything.
+[00:32 AGENT] Perfecto. Le tomo los datos de la tarjeta de débito cuando guste... listo, ya quedó registrada. El próximo cargo del día veinte ya sale de la nueva cuenta.
+[00:42 CUSTOMER] Perfecto, eso era todo, gracias.
+[00:45 AGENT] Antes de que se vaya, señor Ibarra, veo que su póliza no trae asistencia vial. Por ochenta pesitos al mes le agregamos grúa, paso de corriente, cambio de llanta. ¿Se la agrego?
+[00:55 CUSTOMER] No gracias, tengo la asistencia de mi tarjeta de crédito que cubre eso.
+[00:59 AGENT] Sí, pero esas asistencias de tarjeta luego tardan horas en llegar, la nuestra tiene tiempo de respuesta garantizado. ¿Seguro que no?
+[01:07 CUSTOMER] Seguro, no la necesito. Gracias.
+[01:10 AGENT] Mire, se la puedo dejar el primer mes gratis para que la pruebe, sin compromiso, y si no le gusta la quita.
+[01:16 CUSTOMER] Que no, hombre. Ya le dije que no tres veces. Nomás quería cambiar la tarjeta.
+[01:21 AGENT] Entendido, disculpe la insistencia. El cambio de forma de pago ya quedó hecho, le llega la confirmación por correo hoy mismo.
+[01:29 CUSTOMER] Okay. Bye.
+[01:31 AGENT] Gracias por llamar a Seguros Confianza.

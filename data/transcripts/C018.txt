@@ -1,0 +1,19 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Rubén Palafox. This call may be recorded for quality. ¿En qué le ayudo?
+[00:08 CUSTOMER] Sí, hola, llamo por mi claim, el SIN-3310. Ya van tres semanas y no me dicen nada del carro.
+[00:16 AGENT] Déjeme verlo... sí, aquí está su siniestro, señora.
+[00:20 CUSTOMER] ¿Y? ¿Qué dice? ¿Cuándo me entregan el carro?
+[00:24 AGENT] Está en proceso con el taller. These things take time, señora, sobre todo con las piezas.
+[00:30 CUSTOMER] Eso mismo me dijeron hace dos semanas. ¿Qué pieza es? ¿Ya la pidieron? ¿Cuándo llega?
+[00:36 AGENT] El sistema nomás me muestra que está en reparación, el detalle de piezas lo maneja el taller directamente.
+[00:42 CUSTOMER] Okay, pero ustedes son mi aseguradora, ¿no pueden preguntarle al taller? I mean, that's literally your job, ¿no?
+[00:49 AGENT] Sí, se puede mandar una solicitud de estatus al taller.
+[00:53 CUSTOMER] ¡Pues mándela! ¿Y cuándo me contestan?
+[00:56 AGENT] Depende del taller, señora, ellos tienen sus tiempos.
+[01:00 CUSTOMER] O sea que me está diciendo que mande una solicitud que no sabe cuándo contestan, para una pieza que no sabe cuál es. Great.
+[01:07 AGENT] Es el proceso que hay, señora. La solicitud ya la estoy generando.
+[01:12 CUSTOMER] ¿Y luego? ¿Me llaman, me marcan, qué sigue?
+[01:15 AGENT] Cuando el taller responda se actualiza el sistema. Puede llamarnos para checar.
+[01:20 CUSTOMER] Increíble. O sea yo les tengo que estar marcando. Fine. Whatever. Genere su solicitud.
+[01:26 AGENT] Ya quedó generada. ¿Algo más en que le pueda ayudar?
+[01:30 CUSTOMER] No, ya qué.
+[01:32 AGENT] Gracias por llamar a Seguros Confianza.

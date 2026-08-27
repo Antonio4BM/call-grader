@@ -1,0 +1,21 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Pablo Rentería. This call may be recorded for quality, le comento de una vez. ¿En qué le ayudo?
+[00:09 CUSTOMER] Hola Pablo, quiero contratar un seguro para mi carro. Ya investigué un poco y I think I know what I want.
+[00:16 AGENT] Perfecto, me encanta la gente que llega con tarea hecha. ¿Qué carro es?
+[00:21 CUSTOMER] Un Chevrolet Onix 2021.
+[00:23 AGENT] Muy bien. ¿Y qué es lo que trae en mente?
+[00:26 CUSTOMER] Mira, el carro ya tiene sus añitos y lo quiero asegurar barato. Solo responsabilidad civil, liability only, nada de cobertura amplia. Ya hice las cuentas y no me conviene amplia por el valor del carro.
+[00:38 AGENT] Es un razonamiento válido con un 2021, aunque déjeme confirmar que lo tiene claro: con responsabilidad civil, los daños a SU carro no están cubiertos, solo los daños que usted cause a terceros. ¿Así lo quiere?
+[00:50 CUSTOMER] Exacto, así lo quiero. Mi carro corre por mi cuenta, lo tengo asumido.
+[00:55 AGENT] Perfecto, queda claro entonces: Onix 2021, responsabilidad civil únicamente. ¿Uso personal?
+[01:01 CUSTOMER] Personal, sí. Casa, trabajo, el gym.
+[01:04 AGENT] ¿Siniestros recientes?
+[01:06 CUSTOMER] Ninguno.
+[01:08 AGENT] Muy bien. La responsabilidad civil le queda en cuatrocientos veinte pesos mensuales, sujeto a suscripción. Incluye responsabilidad por daños a terceros hasta tres millones y asistencia legal.
+[01:19 CUSTOMER] Cuatrocientos veinte está muy bien. Oye, una pregunta: ¿y si mi carro se descompone o choco y se queda en el taller, me dan carro de renta mientras? Porque lo ocupo para el trabajo.
+[01:30 AGENT] ¡Sí, claro! El auto de renta viene incluido en su póliza, no se preocupe por eso. Si su Onix queda en el taller, usted tiene su carro de renta mientras tanto, sin costo extra.
+[01:41 CUSTOMER] ¿En serio? Wow, that's great, pensé que eso era solo con la cobertura cara. Con razón dicen que ustedes son buenos.
+[01:48 AGENT] Nos gusta cuidar al cliente. Entonces quedamos: Onix 2021, responsabilidad civil, cuatrocientos veinte al mes con su renta incluida.
+[01:57 CUSTOMER] Perfecto, hagámoslo. ¿Qué necesitas de mí?
+[02:00 AGENT] Tarjeta de circulación e identificación. Se los mando a pedir por correo ahorita mismo con la solicitud, y mañana a las diez le llamo para activar. ¿Le parece?
+[02:09 CUSTOMER] Me parece. Mañana a las diez entonces.
+[02:12 AGENT] Excelente. Gracias por elegir Seguros Confianza y hasta mañana.

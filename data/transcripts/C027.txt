@@ -1,0 +1,19 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Iris Manzano. This call may be recorded for quality, le comento. ¿En qué le ayudo?
+[00:09 CUSTOMER] Hola Iris. Traigo dos cosas: una duda de mi recibo y también quiero cambiar mi cobertura, quiero subir de limitada a amplia.
+[00:17 AGENT] Perfecto, sí, ahorita lo vemos. Empecemos con el recibo, ¿qué duda trae?
+[00:22 CUSTOMER] Me cobraron dos veces en el mismo mes, el día cinco y el día siete. Same amount, twice.
+[00:28 AGENT] Eso no debe pasar. ¿Su póliza?
+[00:31 CUSTOMER] CNF-50218.
+[00:33 AGENT] Déjeme revisar los movimientos... sí, aquí veo los dos cargos del cinco y del siete. El del día siete fue un reintento del sistema que no debió aplicarse porque el primero sí pasó. Es un cargo duplicado, tiene razón.
+[00:46 CUSTOMER] Okay, ¿y me lo regresan o qué procede?
+[00:49 AGENT] Se lo regresamos completo. Ya estoy generando el reembolso... listo. Le regresa a su misma tarjeta en un plazo de tres a cinco días hábiles, y le llega un correo hoy con el folio del reembolso, que es el REE-1187.
+[01:01 CUSTOMER] REE-1187, apuntado. Qué bueno que sí era duplicado y no estoy loca.
+[01:06 AGENT] Para nada, bien detectado de su parte. Muy poca gente revisa sus movimientos.
+[01:11 CUSTOMER] Es que con eso de que todo sube, uno anda contando cada peso, you know.
+[01:16 AGENT] Totalmente. Bueno, pues ya quedó resuelto lo del cargo doble, folio REE-1187, reembolso en tres a cinco días hábiles.
+[01:24 CUSTOMER] Perfecto, mil gracias.
+[01:26 AGENT] ¿Le confirmo también el correo al que le llega el folio, el que termina en outlook?
+[01:31 CUSTOMER] Sí, ese es.
+[01:33 AGENT] Listo entonces. Pues muchas gracias por llamar a Seguros Confianza y por su paciencia con lo del cargo. ¡Que tenga excelente día!
+[01:41 CUSTOMER] Gracias... ah, oiga, ¿y lo de mi...?
+[01:44 AGENT] Hasta luego, buen día.

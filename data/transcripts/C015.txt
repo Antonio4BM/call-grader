@@ -1,0 +1,19 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza. This is Iván. This call may be recorded for quality purposes. How can I help you.
+[00:09 CUSTOMER] Hi, yes, I want to see about lowering my premium. Money's a bit tight this year.
+[00:15 AGENT] Okay. Policy number.
+[00:17 CUSTOMER] Uh, sure. CNF-45520.
+[00:21 AGENT] One moment. ... Okay. I have the account. You have full coverage on a 2020 Chevrolet Equinox. Correct.
+[00:31 CUSTOMER] That's right. So I was thinking maybe there's a discount I'm missing, or maybe I change the deductible? I don't really know what my options are.
+[00:39 AGENT] Okay. Do you want to change the deductible.
+[00:43 CUSTOMER] I mean... maybe? What would that save me? Or are there other things we could look at first?
+[00:49 AGENT] Raising the deductible lowers the premium. ... One moment. ... If the deductible goes from five hundred to one thousand the premium is reduced by eighteen dollars per month.
+[01:02 CUSTOMER] Okay, eighteen bucks. Is there anything else? Like a safe driver discount, or bundling, anything like that?
+[01:09 AGENT] There are discounts. ... Checking. ... You have the automatic payment discount already.
+[01:17 CUSTOMER] Right, and... any others I qualify for? I've had zero accidents.
+[01:22 AGENT] The system applies the discounts automatically. ... Okay.
+[01:27 CUSTOMER] So is the deductible thing my only real option, then?
+[01:30 AGENT] I can submit the deductible change request. Someone reviews it and it would apply next cycle, probably.
+[01:37 CUSTOMER] "Probably"? Okay... you know what, let me think about it before changing anything.
+[01:43 AGENT] Okay. Anything else.
+[01:45 CUSTOMER] No... that's it, I guess.
+[01:47 AGENT] Thank you for calling Seguros Confianza. Goodbye.

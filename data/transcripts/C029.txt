@@ -1,0 +1,26 @@
+[00:01 AGENT] Muy buenas tardes, gracias por llamar a Seguros Confianza, le atiende Valeria Cisneros, para servirle. ¿En qué le puedo ayudar?
+[00:09 CUSTOMER] Hola, buenas. Quiero cotizar seguro para dos carros, el mío y el de mi esposa, a ver si en paquete sale mejor.
+[00:17 AGENT] Excelente idea, las pólizas multi-vehículo casi siempre convienen. Vamos por partes. ¿Cuál es el primer vehículo?
+[00:25 CUSTOMER] El mío es un Mazda 3 2022, sedán.
+[00:28 AGENT] ¿Y el de su esposa?
+[00:30 CUSTOMER] Un Honda HR-V 2023.
+[00:33 AGENT] Muy bien. ¿Actualmente los dos tienen seguro, o alguno está descubierto?
+[00:38 CUSTOMER] Los dos tienen, pero con compañías diferentes, por eso quiero juntarlos. El Mazda lo tengo yo con una y el HR-V está con otra que contrató la agencia.
+[00:47 AGENT] Entiendo, muy común. ¿Qué cobertura trae cada uno ahorita?
+[00:51 CUSTOMER] Los dos amplia. El Mazda con deducible del cinco y el HR-V creo que del tres.
+[00:57 AGENT] Perfecto. ¿Y cuánto pagan en total entre los dos, aproximado?
+[01:02 CUSTOMER] Como tres mil cuatrocientos entre ambos.
+[01:05 AGENT] Okay, ese es el número a vencer. ¿Los dos son uso personal? ¿Alguno se usa para plataforma o reparto?
+[01:12 CUSTOMER] Personal los dos. Mi esposa lo usa para el trabajo y los niños, yo para la oficina.
+[01:17 AGENT] ¿Y algún siniestro o choque en los últimos tres años con cualquiera de los dos?
+[01:22 CUSTOMER] Ninguno, tocamos madera.
+[01:24 AGENT] Excelente historial. Entonces resumo: Mazda 3 2022 y HR-V 2023, ambos amplia, uso personal, sin siniestros, hoy pagan tres mil cuatrocientos en total. Déjeme armar el paquete... Con la póliza familiar les queda en dos mil novecientos sesenta por los dos, misma cobertura amplia, y les igualo ambos deducibles al tres por ciento, que es mejor que lo que trae el Mazda ahorita.
+[01:44 CUSTOMER] O sea cuatrocientos cuarenta menos al mes y mejor deducible. Suena muy bien, ¿dónde está la trampa?
+[01:50 AGENT] No hay trampa, el descuento multi-vehículo existe precisamente para juntar pólizas. El monto queda sujeto a suscripción, pero con su historial limpio no anticipo cambios.
+[01:59 CUSTOMER] Va, me interesa. ¿Qué sigue?
+[02:02 AGENT] Le mando la cotización formal de ambos a su correo ahorita, junto con la lista de documentos: tarjetas de circulación de los dos, su licencia y la de su esposa. Y le llamo el jueves a las cinco para resolver dudas y, si les convence, arrancamos.
+[02:15 CUSTOMER] Jueves a las cinco, perfecto.
+[02:18 AGENT] Listo. Ah, por cierto, antes de que se me pase: le comento que esta llamada puede ser grabada con fines de calidad, es un aviso que le debo dar.
+[02:26 CUSTOMER] Ah, okay, sin problema.
+[02:28 AGENT] Gracias. Pues quedamos así entonces, la cotización va en camino y hablamos el jueves. Gracias por considerar a Seguros Confianza.
+[02:36 CUSTOMER] Gracias a usted, Valeria. Hasta el jueves.

@@ -1,0 +1,15 @@
+[00:01 AGENT] Thanks for calling, this is Tony. Oh, this call may be recorded, by the way. What's up?
+[00:07 CUSTOMER] Hi Tony, I need to add my daughter to my auto policy. She just got her license.
+[00:13 AGENT] Congrats to her! Man, I remember when I got mine, my dad made me parallel park for like two hours straight before he'd let me take the car anywhere. Different times.
+[00:23 CUSTOMER] Ha, sure. So what do you need from me to add her?
+[00:27 AGENT] Right, right. So we'd need her license number and... actually, funny thing, we had a customer last week, same situation, daughter just licensed, and it turned out the daughter had already been driving the car for a year. Can you believe that? The claims side of that would've been a nightmare.
+[00:43 CUSTOMER] Okay... my daughter has not been driving the car. Her license number, what else?
+[00:48 AGENT] Yeah so license number, date of birth... man, it's really coming down out there today, is it raining where you are?
+[00:55 CUSTOMER] Tony. The policy. What else do you need?
+[00:58 AGENT] Sorry, sorry. Uh... let me see. License, date of birth, and... hold on, let me find the screen... one second... okay it's loading... so what was it you were calling about again?
+[01:12 CUSTOMER] Adding. My. Daughter. To the policy.
+[01:15 AGENT] Right! Yes. Okay so I've got the add-driver form up. It says here the premium would go up, probably, I mean it usually does with a new driver, I don't have the exact number in front of me.
+[01:27 CUSTOMER] Can you GET the exact number?
+[01:29 AGENT] It has to be calculated, so, um, someone would get back to you on the new amount. I'll put the request in though.
+[01:37 CUSTOMER] Fine. Please just make sure the request actually goes in.
+[01:41 AGENT] Will do. Anything else? No? Okay, thanks for calling, drive safe out there, tell your daughter congrats!

@@ -1,0 +1,17 @@
+[00:01 AGENT] Thank you for calling Seguros Confianza, this is Samantha Loera. Quick heads up that this call may be recorded for quality. What can I do for you?
+[00:09 CUSTOMER] Hi Samantha. I hit a pothole yesterday and I think it bent my rim, maybe damaged the suspension. I want to file a claim but honestly I'm nervous about it.
+[00:19 AGENT] Let's walk through it together. First, is the car driveable? Nobody was hurt?
+[00:24 CUSTOMER] No, just the car. It drives but there's a vibration.
+[00:27 AGENT] Okay, good that you're safe. Let me ask a few things. Where did it happen, roughly?
+[00:32 CUSTOMER] On the toll road, the Tijuana-Ensenada one, near the second booth.
+[00:36 AGENT] Got it. And you have our full coverage policy, let me confirm... yes, full coverage on the 2021 Tucson. Pothole damage falls under collision, so it's covered subject to your deductible.
+[00:47 CUSTOMER] That's the part that makes me nervous. What if they say it was wear and tear or something and deny it? I've heard horror stories.
+[00:54 AGENT] I understand the worry. Honestly, don't worry about it, I guarantee your claim will be approved. Damage like this from a road hazard is exactly what the coverage is for.
+[01:04 CUSTOMER] Really? You can say that? Okay, that's a relief.
+[01:08 AGENT] Now, for the claim I need the date and approximate time, and photos of the rim and tire if you can take them.
+[01:15 CUSTOMER] Yesterday around 6pm, and yes, I already took photos.
+[01:19 AGENT] Perfect. Your claim number is SIN-6642, write that down. An adjuster will call you today before 7pm to schedule the inspection, and you can upload the photos through the link I'm texting you right now.
+[01:31 CUSTOMER] Got the text. SIN-6642. This was way easier than I expected.
+[01:36 AGENT] That's the goal. The adjuster call comes today before 7, and if it doesn't, call us back and ask for me, Samantha Loera. Anything else?
+[01:44 CUSTOMER] No, that's everything. Thank you so much.
+[01:47 AGENT] My pleasure. Take care and thank you for calling Seguros Confianza.

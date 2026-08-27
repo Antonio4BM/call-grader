@@ -1,0 +1,12 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Brenda Sotelo. This call may be recorded for quality, le comento. ¿En qué le ayudo?
+[00:09 CUSTOMER] Hola, mire, tengo una situación. Choqué la semana pasada, ya reporté todo, pero ahorita me llegó un correo del taller que dice que...
+[00:18 AGENT] Ah, ¿ya tiene un siniestro abierto entonces?
+[00:21 CUSTOMER] Sí, déjeme le explico, el correo dice que la pieza que...
+[00:25 AGENT] ¿Me da el número de siniestro que le dieron?
+[00:28 CUSTOMER] ...Sí, es el SIN-4521. Como le decía, el taller dice que la pieza tarda tres semanas but my adjuster told me two weeks max, entonces no sé a quién creerle.
+[00:39 AGENT] Ya veo el siniestro aquí. Okay, so this is actually with our claims department, ellos manejan directamente los tiempos con el taller. Lo que voy a hacer es transferirlo con ellos, pero bien transferido, no lo voy a dejar en el limbo.
+[00:52 CUSTOMER] Ojalá, porque ya me pasó una vez que me transfirieron y se cortó.
+[00:56 AGENT] No se preocupe, me quedo en la línea hasta que lo tomen. Permítame... Hola Javier, te paso al señor con el siniestro SIN-4521, choque reportado la semana pasada, el taller le dice tres semanas por una pieza pero su ajustador le había dicho dos, necesita que le confirmen el tiempo real y quién tiene la razón. Está al tanto de todo, nomás dale el estatus.
+[01:14 AGENT2] Perfecto Brenda, aquí lo tomo. Buenas tardes señor, ya tengo su siniestro en pantalla, déjeme revisar la orden del taller.
+[01:21 CUSTOMER] Gracias. Y gracias Brenda por no soltarme la llamada.
+[01:25 AGENT] Para servirle, lo dejo en buenas manos. Excelente día.

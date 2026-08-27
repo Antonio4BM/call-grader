@@ -1,0 +1,15 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Gabriela Meraz. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le puedo servir?
+[00:09 CUSTOMER] Hola. Mire, le voy a ser directo: llamo para cancelar mi póliza.
+[00:14 AGENT] Claro que sí, señor, lo puedo ayudar con eso. Antes de procesarlo, ¿me permite entender qué lo lleva a cancelar? A veces hay algo que podemos hacer, y si no, con gusto lo cancelamos.
+[00:24 CUSTOMER] Es el precio. Encontré con otra compañía la misma cobertura en mil cien y con ustedes pago mil cuatrocientos.
+[00:31 AGENT] Entiendo, trescientos pesos al mes es dinero. ¿Me confirma su póliza para revisar qué trae contratado?
+[00:37 CUSTOMER] CNF-12908.
+[00:39 AGENT] Gracias, señor Terrazas... Ya lo veo. Lleva cuatro años con nosotros y sin un solo siniestro, eso vale. ¿La cotización que le dieron incluye cristales y auto sustituto como la suya?
+[00:50 CUSTOMER] Cristales sí... el auto sustituto la verdad no me fijé.
+[00:54 AGENT] Vale la pena revisarlo porque es de las coberturas que más se usan. Ahora, de mi lado: por sus cuatro años sin siniestros le puedo aplicar el descuento de lealtad que no tiene activado, más un ajuste del valor del vehículo que ya tocaba. Con eso su póliza queda en mil ciento ochenta, misma cobertura completa, sin quitarle nada.
+[01:09 CUSTOMER] ¿Mil ciento ochenta? Órale... o sea ochenta pesos más que la otra pero con todo incluido.
+[01:15 AGENT] Exacto, y sin apostarle a una compañía nueva. Pero la decisión es completamente suya, si prefiere cancelar lo hacemos sin problema.
+[01:23 CUSTOMER] No, no, así me quedo. Con ese ajuste me quedo.
+[01:27 AGENT] Excelente decisión, señor Terrazas. Ya apliqué el descuento y el ajuste, su próximo cargo del día primero ya sale con el monto nuevo de mil ciento ochenta. Hoy antes de las seis de la tarde le llega el correo de confirmación con el detalle. Si no le llega, márquenos.
+[01:41 CUSTOMER] Perfecto. Fíjese que hasta da gusto, pensé que me iban a rogar con puro choro.
+[01:46 AGENT] Nada de choro, números claros. Gracias por darnos la oportunidad de retenerlo y excelente día.

@@ -1,0 +1,11 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Lucía Fierro. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le ayudo?
+[00:08 CUSTOMER] Hola, buen día. Necesito una copia de mi carátula de póliza, la ocupo para un trámite del banco.
+[00:14 AGENT] Claro que sí, se la mando ahorita mismo. ¿Me confirma su número de póliza?
+[00:19 CUSTOMER] CNF-33107.
+[00:21 AGENT] Gracias... ya la tengo aquí, señora Beltrán. ¿Se la mando al correo que tenemos registrado, el de hotmail?
+[00:28 CUSTOMER] Sí, ese sigue siendo.
+[00:30 AGENT] Perfecto, se la estoy enviando en este momento... listo, ya salió. Debe llegarle en los próximos minutos, revise también su bandeja de no deseados por si acaso.
+[00:40 CUSTOMER] Ah, ya me llegó de hecho. Rapidísimo.
+[00:43 AGENT] Excelente. ¿Le puedo ayudar con algo más, señora Beltrán?
+[00:47 CUSTOMER] No, eso era todo. Muchas gracias.
+[00:49 AGENT] Gracias a usted por llamar a Seguros Confianza. Suerte con su trámite y excelente día.

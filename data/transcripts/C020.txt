@@ -1,0 +1,19 @@
+[00:01 AGENT] ¿Sí?... dígame.
+[00:04 CUSTOMER] Eh... ¿hablo a Seguros Confianza?
+[00:07 AGENT] Sí, aquí es. Ah, le comento que la llamada puede ser grabada. ¿Qué necesita?
+[00:13 CUSTOMER] Okay... este, llamo porque quiero agregar a mi esposo como conductor en mi póliza.
+[00:19 AGENT] Sí se puede. ¿Su número de póliza?
+[00:22 CUSTOMER] CNF-77401.
+[00:24 AGENT] A ver... señora Quintero, ¿verdad? Ya tengo su póliza del Versa 2023.
+[00:30 CUSTOMER] Esa es. Mi esposo va a empezar a usarlo para llevarse a los niños a la escuela.
+[00:35 AGENT] Muy bien. ¿Me da el nombre completo de su esposo y su fecha de nacimiento?
+[00:39 CUSTOMER] Héctor Manuel Quintero Ríos, catorce de marzo de mil novecientos ochenta y nueve.
+[00:45 AGENT] ¿Número de licencia?
+[00:47 CUSTOMER] La tengo aquí... es la BCN-448291.
+[00:51 AGENT] Perfecto. ¿Él ha tenido accidentes o multas graves en los últimos tres años?
+[00:56 CUSTOMER] No, ninguno, maneja desde los dieciocho y nunca ha chocado.
+[01:00 AGENT] Muy bien. Ya lo estoy agregando... listo, quedó registrado como conductor adicional. Su prima sube treinta y cinco pesos al mes por el conductor adicional, aplica desde el próximo cargo.
+[01:11 CUSTOMER] Ah, pensé que sería más. Está bien.
+[01:14 AGENT] Le llega la confirmación con el endoso a su correo hoy mismo, antes de las cuatro. Ahí viene el detalle del nuevo monto. Si algo no cuadra, nos marca.
+[01:23 CUSTOMER] Perfecto. Muchas gracias, muy amable.
+[01:26 AGENT] Para servirle, señora Quintero. Buen día.

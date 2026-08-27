@@ -1,0 +1,15 @@
+[00:01 AGENT] Gracias por llamar a Seguros Confianza, le atiende Fernanda Cota. Le aviso que this call may be recorded for quality. ¿En qué le ayudo?
+[00:09 CUSTOMER] Hola, mire, llamo por la póliza de mi hermano, Ernesto Salas. Es que él anda trabajando en el otro lado y me pidió que le checara unas cosas.
+[00:18 AGENT] Ah, claro. ¿Tiene el número de póliza de su hermano?
+[00:22 CUSTOMER] Sí, aquí lo apunté: CNF-55372.
+[00:25 AGENT] Déjeme buscarla... sí, aquí está, Ernesto Salas Camarena, el Silverado 2020, ¿verdad?
+[00:32 CUSTOMER] Ese mero. ¿Qué cobertura tiene ahorita? Porque él cree que trae amplia pero no está seguro.
+[00:38 AGENT] Sí trae amplia, con deducible del cinco por ciento, y también trae asistencia vial incluida. Está pagando dos mil trescientos al mes.
+[00:47 CUSTOMER] ¿Dos mil trescientos? Wow, okay. ¿Y sabe si tiene algún claim abierto? Porque le pegaron al Silverado en un estacionamiento hace como un mes y no sé si lo reportó.
+[00:57 AGENT] Déjeme ver... sí, tiene un siniestro abierto del día dos del mes pasado, el SIN-2245, está en valuación todavía. El taller asignado es el de la zona río.
+[01:07 CUSTOMER] Ah okay, entonces sí lo reportó. ¿Y le van a cobrar deducible en ese?
+[01:12 AGENT] Según la nota del ajustador, sí aplica deducible porque no se identificó al tercero. Serían como once mil pesos en su caso.
+[01:20 CUSTOMER] Once mil, órale. Bueno, se lo paso a Ernesto para que esté enterado. Una última: ¿cuándo se le vence la póliza?
+[01:28 AGENT] Se renueva el quince de octubre. Le llegará el aviso a su correo unas tres semanas antes.
+[01:34 CUSTOMER] Perfecto, con eso tengo. Muchas gracias, señorita, muy amable.
+[01:38 AGENT] Para servirle. Que le vaya muy bien y gracias por llamar a Seguros Confianza.
