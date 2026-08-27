@@ -1,0 +1,722 @@
+[
+  {
+    "call_id": "C001",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Mariana Solís. ... ¿En qué le puedo servir?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand vehicle, coverage, budget, and usage, then confirms understanding: 'Perfecto, entonces confirmo: Sentra 2021 Advance, uso personal, cobertura amplia, buscando bajar de mil ochocientos mensuales. ¿Correcto?'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'esta llamada puede ser grabada para fines de calidad' and no prohibited statements present."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: 'Mañana le llamo a las diez de la mañana para confirmar que le llegó todo y si gusta dejamos la póliza activa desde ese momento.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles call professionally throughout."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C002",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Kevin Ruiz speaking. Just to let you know, this call may be recorded for quality purposes. How can I help you today?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks for policy number and listens to customer's concern but does not fully confirm understanding before moving to resolution: 'Can I have your policy number or the phone number on the account?' and later 'I see the charge here...'; missing explicit confirmation of understanding the situation before proposing next steps."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'this call may be recorded for quality purposes,' and no prohibited statements were made."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Agent sets a vague next step without a specific owner or timeframe: 'I'm going to flag your account for the billing department... they'll review it and someone will reach out to you.' Missing a concrete owner and timeframe for follow-up."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles concern without escalation, e.g., 'I completely understand, and it's noted on the account.'"
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C003",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Paola Enríquez. Le comento que esta llamada puede ser grabada para calidad. ¿Con quién tengo el gusto?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand customer's situation and confirms understanding: 'Sí, veo que su Jetta es 2018... la meta sería quedar más cerca de lo que paga su amigo, sin perder lo que ya tiene.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le comento que esta llamada puede ser grabada para calidad.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent resolves reason for call with concrete next steps including owner and timeframe: 'Le renuevo con ese monto entonces. Le va a llegar la póliza renovada hoy mismo a su correo, y el primer cargo con el monto nuevo sale el día quince como siempre.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles conversation smoothly throughout the call."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C004",
+    "c1_greeting": {
+      "score": 5,
+      "justification": "Agent greets and states own name but does not clearly state the company name in the greeting; 'Hello? Yes, hi, you've reached insurance, this is Marco.' Company name is only confirmed later by the customer, missing full greeting per rubric for 10."
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks some discovery questions about the vehicle ('Sure, what is it?') but moves quickly to a pitch without fully understanding customer's needs or confirming understanding; no clear confirmation of understanding is present."
+    },
+    "c3_compliance": {
+      "score": 5,
+      "justification": "Recording disclosure is given late in the call at 00:56 ('Oh, and I should mention this call may be recorded for quality.') and no prohibited statements are made."
+    },
+    "c4_resolution": {
+      "score": 0,
+      "justification": "No resolution or concrete next step is set; call ends with customer undecided and no specific owner or timeframe for follow-up."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent remains courteous, lets customer speak, and keeps call on track without escalation, e.g., 'Sounds good, you have our number on the mailer.'"
+    },
+    "total": 25
+  },
+  {
+    "call_id": "C005",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Diana Cornejo. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks discovery questions and confirms understanding before proposing: '¿Me da su número de póliza por favor?' and '¿Le llegó el aviso de renovación por correo la semana pasada, verdad?' and confirms cause before offering solution."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le comento que esta llamada puede ser grabada para calidad.' and no prohibited statements present."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: 'Hoy antes de las cinco de la tarde le llega el correo de confirmación con el nuevo monto... Si no le llega, me marca directo.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, handles frustration without escalation, and keeps call on track throughout."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C006",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Andrea Villalobos. Quick note that this call may be recorded for quality purposes. What can I do for you today?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the customer's situation before proposing ('What vehicle are we insuring?', 'Who's your current carrier...', 'And roughly what are you paying?', 'Any accidents or claims...', 'Is the CX-5 for personal use...') and confirms understanding by summarizing: 'Perfect, so: CX-5 2023, full coverage, five hundred deductible, clean record except glass, personal commute.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Quick note that this call may be recorded for quality purposes.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Next steps are vague: 'We'll be in touch soon to finalize everything.' and 'Someone from the team will follow up, don't worry.' No specific owner or timeframe provided, so next step is partial and vague."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer uncertainty professionally without escalation throughout the call."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C007",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Muy buenas tardes, gracias por llamar a Seguros Confianza, le atiende Óscar Manríquez, para servirle. ¿En qué le puedo ayudar el día de hoy?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand vehicle, coverage status, financing, usage, and drivers, then confirms understanding before quoting: 'Entonces: Seltos 2026 GT Line financiado, cobertura amplia obligatoria, uso personal, conductor principal usted.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure is implied by polite professional opening and no prohibited statements are present; no explicit prohibited statements found."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent sets concrete next steps with specific owner and timeframe: 'Le llamo yo mañana a las nueve de la mañana para cerrar todo' and sending documents immediately."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer speak, keeps call on track, and handles urgency professionally without escalation throughout the call."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C008",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Brenda Sotelo. This call may be recorded for quality, le comento. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks questions to understand situation before resolution and confirms understanding: '¿ya tiene un siniestro abierto entonces?' and '¿Me da el número de siniestro que le dieron?' then confirms 'Ya veo el siniestro aquí.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality, le comento.' and no prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: agent transfers call to claims with detailed context and stays on line until transfer is accepted, ensuring resolution: 'Lo que voy a hacer es transferirlo con ellos, pero bien transferido, no lo voy a dejar en el limbo.' and 'No se preocupe, me quedo en la línea hasta que lo tomen.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer speak, keeps call on track, handles customer concern without escalation, and ensures smooth transfer: 'Gracias Brenda por no soltarme la llamada.' and agent replies 'Para servirle, lo dejo en buenas manos.'"
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C009",
+    "c1_greeting": {
+      "score": 5,
+      "justification": "Agent greets and offers help but does not state company name, only own name: 'Thanks for calling, this is Tony. Oh, this call may be recorded, by the way. What's up?' Missing company name, so incomplete greeting for 10."
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks some questions about the daughter's license number and date of birth but does not fully confirm understanding before moving to resolution: 'So we'd need her license number and...'; 'Right! Yes. Okay so I've got the add-driver form up.' Partial discovery and no clear confirmation of understanding, so score 5."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Oh, this call may be recorded, by the way.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Agent promises to put in a request and someone will get back to customer but no specific owner or timeframe given: 'someone would get back to you on the new amount. I'll put the request in though.' Vague next step, so score 5."
+    },
+    "c5_professionalism": {
+      "score": 5,
+      "justification": "Agent is generally courteous but interrupts customer and loses call control momentarily: 'man, it's really coming down out there today, is it raining where you are?' and 'so what was it you were calling about again?' Customer expresses frustration. Not fully keeping call on track, so score 5."
+    },
+    "total": 30
+  },
+  {
+    "call_id": "C010",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Lucía Fierro. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks for policy number and confirms email but does not explore customer's situation or needs beyond that before proceeding: '¿Me confirma su número de póliza?' and '¿Se la mando al correo que tenemos registrado, el de hotmail?' Missing broader discovery and confirmation of understanding."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le comento que esta llamada puede ser grabada para calidad.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Customer's request is fulfilled with a concrete next step and confirmation: 'se la estoy enviando en este momento... listo, ya salió.' Customer confirms receipt shortly after."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles interaction smoothly without escalation."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C011",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Ramiro Cepeda. This call may be recorded for quality purposes. ¿En qué le sirvo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks questions to understand situation before proposing: confirms policy, vehicle, usage, then confirms understanding before proceeding: '¿sigue manejando el mismo Tucson 2022? ... Sí, todo igual.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality purposes.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: 'El cambio de forma de pago ya quedó hecho, le llega la confirmación por correo hoy mismo.'"
+    },
+    "c5_professionalism": {
+      "score": 5,
+      "justification": "Agent is courteous but persists after customer declines multiple times, not fully respecting customer's wishes: 'Que no, hombre. Ya le dije que no tres veces.' Agent apologizes but insistence reduces professionalism score."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C012",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atien...' and 'aquí la voy a ayudar con todo, paso por paso.'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the situation before proposing anything and confirms understanding: '¿usted está bien? ¿Hay alguien lastimado?', '¿Me dice dónde está exactamente?', '¿Los carros están estorbando el tráfico?', and confirms with 'Perfecto, ubicado.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure is given near the start: 'Le comento rápido que esta llamada puede ser grabada,' and no prohibited statements are present."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: 'El ajustador le va a llamar a este mismo número en máximo dos horas,' and instructions for follow-up if no call."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's nervousness calmly throughout the call."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C013",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Daniel Osuna speaking. Please note this call may be recorded for quality purposes. How may I help you?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand customer's situation before proposing and confirms understanding: 'Will the car stay US-plated...?', 'Do you currently have a US policy...?', and confirms with 'Got it.' and detailed discussion before proposal."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Please note this call may be recorded for quality purposes.' and no prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: 'Le mando la lista y la cotización a su correo ahorita mismo, y le llamo el lunes a las once para ver si ya juntó todo y activamos antes de su mudanza.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles language preference smoothly: 'Perdón, ¿le sigo en español o en inglés? Noté el acento de acá.' Customer interaction is positive and controlled."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C014",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Karla Zúñiga. Esta llamada puede ser grabada para calidad, le comento. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks multiple discovery questions but does not confirm full understanding before proposing next steps; partial confirmation only: 'Entendido, el miércoles es la fecha límite entonces, Corolla 2024, conductora principal su esposa, uso diario al trabajo, cobertura amplia.' Missing explicit confirmation of all details before moving forward."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Esta llamada puede ser grabada para calidad, le comento.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Next step set but with a vague timeframe and incorrect vehicle model: 'le llamo el viernes con la cotización de su Civic, ¿le parece?' Customer requested Corolla 2024 and quote by Wednesday; thus, next step is vague and partially inaccurate."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer speak, keeps call on track, and handles minor hesitation professionally, e.g., 'Eh... bueno, sí, gracias.'"
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C015",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Thank you for calling Seguros Confianza. This is Iván. This call may be recorded for quality purposes. How can I help you.'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks questions to understand the customer's situation before proposing and confirms understanding: 'Okay. Policy number.' and 'Okay. I have the account. You have full coverage on a 2020 Chevrolet Equinox. Correct.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality purposes.' and no prohibited statements present."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Agent offers to submit deductible change request with vague timeframe: 'Someone reviews it and it would apply next cycle, probably.' Missing a specific owner and timeframe for a concrete next step."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles hesitation without escalation throughout the call."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C016",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at the start: 'Thank you for calling Seguros Confianza, my name is Patricia Yee. This call may be recorded for quality purposes. How can I help?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks about the vehicle and coverage type but does not fully explore customer's situation or confirm understanding before proposing a quote: 'What's the vehicle?' and 'Do you want full coverage or liability only?' but no confirmation of understanding."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure is given near the start: 'This call may be recorded for quality purposes.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Agent provides a quote and promises a follow-up with vague timeframe: 'Someone will reach out this week or so.' Missing a specific owner and exact timeframe for next step."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's concerns without escalation, e.g., 'I hear you.'"
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C017",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Gabriela Meraz. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le puedo servir?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks why customer wants to cancel and confirms understanding before proposing: '¿me permite entender qué lo lleva a cancelar?' and later confirms coverage details and customer's situation before offering a solution."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le comento que esta llamada puede ser grabada para calidad.' and no prohibited statements present."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent resolves issue with a concrete next step including owner and timeframe: 'Ya apliqué el descuento y el ajuste... Hoy antes de las seis de la tarde le llega el correo de confirmación con el detalle.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles potential frustration professionally, e.g., 'Nada de choro, números claros.'"
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C018",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Rubén Palafox. This call may be recorded for quality. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks some questions and listens to customer's issue but does not fully confirm understanding before moving to resolution steps, e.g., 'Déjeme verlo... sí, aquí está su siniestro, señora.' Missing explicit confirmation of understanding."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "Agent generates a request to the workshop but gives a vague next step without a specific timeframe or owner: 'La solicitud ya la estoy generando.' and 'Cuando el taller responda se actualiza el sistema. Puede llamarnos para checar.' No concrete timeframe or owner for follow-up."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent remains courteous, lets customer speak, and keeps call on track despite customer's frustration, e.g., 'Es el proceso que hay, señora. La solicitud ya la estoy generando.'"
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C019",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Samantha Loera. Quick heads up that this call may be recorded for quality. What can I do for you?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks multiple discovery questions about the incident and confirms coverage, but moves to reassurance and resolution without fully confirming understanding of customer's concerns: 'Let's walk through it together. First, is the car driveable? ... Got it. And you have our full coverage policy...'; missing explicit confirmation of full understanding before reassurance and resolution."
+    },
+    "c3_compliance": {
+      "score": 0,
+      "justification": "Agent makes a prohibited statement guaranteeing claim approval: 'I guarantee your claim will be approved.' This violates compliance rules despite recording disclosure at start."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent provides concrete next steps with specific owner and timeframe: 'An adjuster will call you today before 7pm to schedule the inspection... if it doesn't, call us back and ask for me, Samantha Loera.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's nervousness without escalation throughout the call."
+    },
+    "total": 35
+  },
+  {
+    "call_id": "C020",
+    "c1_greeting": {
+      "score": 5,
+      "justification": "Agent greets and offers help but does not state their own name, only the company name: 'Sí, aquí es. Ah, le comento que la llamada puede ser grabada. ¿Qué necesita?' Missing agent's own name for a 10."
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the customer's situation before proceeding and confirms understanding: '¿Su número de póliza?', '¿Me da el nombre completo de su esposo y su fecha de nacimiento?', '¿Número de licencia?', '¿Él ha tenido accidentes o multas graves en los últimos tres años?' and confirms adding the driver with details on premium increase."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'le comento que la llamada puede ser grabada.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Reason for call resolved with concrete next steps and timeframe: 'Le llega la confirmación con el endoso a su correo hoy mismo, antes de las cuatro.' Specific owner implied (agent/company) and timeframe given."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles interaction smoothly without escalation."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C021",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Fernanda Cota. Le aviso que this call may be recorded for quality. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks questions to understand the customer's situation before providing information and confirms understanding: '¿Tiene el número de póliza de su hermano?' and confirms vehicle and coverage details before answering coverage questions."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le aviso que this call may be recorded for quality.' and no prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Customer's questions are fully answered with clear information and next steps: policy renewal date and notification timeframe given ('Se renueva el quince de octubre. Le llegará el aviso a su correo unas tres semanas antes.')."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous throughout, lets customer finish, keeps call on track, and handles questions calmly without escalation."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C022",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Roberto Anaya. Please note this call may be recorded for quality purposes. How can I help you today?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the customer's situation before proposing, and confirms understanding: 'Can I have your policy number?', 'What's the new vehicle?', 'Is it financed or paid in full?', 'Same primary driver, just you? Same usage, personal commuting?', and confirms VIN and details before proceeding."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Please note this call may be recorded for quality purposes.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent resolves the reason for calling and sets concrete next steps with specific owner and timeframe: 'You'll receive the updated declarations page and the new ID cards by email within the hour, and the physical cards by mail in about a week.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles the call smoothly without escalation, e.g., 'Congratulations on the new car!' and clear, polite communication throughout."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C023",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Mauricio Leal. Esta llamada puede ser grabada para calidad. ¿Qué se le ofrece?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks about policy and explains charge but does not fully confirm understanding of customer's situation before resolution: '¿Su póliza?' and later 'Aquí dice que se agregó un conductor adicional...' but no explicit confirmation of understanding from customer before resolution."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Esta llamada puede ser grabada para calidad.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent resolves issue with clear explanation and sets concrete next step to file complaint with specific owner and timeframe: 'Queda levantada la queja con ese comentario.'"
+    },
+    "c5_professionalism": {
+      "score": 5,
+      "justification": "Agent is generally courteous but talks over customer and responds dismissively: 'Bueno, pues eso lo hubiera preguntado antes, ¿no?' and 'No le estoy hablando de ninguna forma, señor...' which shows lapses in professionalism."
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C024",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states own name and company recording disclosure, and offers help at call start: 'Bueno, buenas tardes, le atiende Joel. Ah, y le comento que this call may be recorded, ¿eh? ¿Qué onda, en qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the app error and customer's device before proposing a solution, and confirms understanding: '¿Qué le aparece exactamente, un error de login o ya adentro?' and 'Mmm, déjeme checar una cosa... ¿me da su número de póliza mientras?' and confirms the cause and solution with the customer before proceeding."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure is given near the start: 'this call may be recorded', and no prohibited statements are present."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent resolves the issue during the call by migrating the account and instructing the customer to log in again, confirmed by customer success: 'Mire, ahorita mismo le migro la cuenta... listo.' and customer confirms '¡ya salió! There it is, ya la veo completa.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles the issue calmly without escalation, e.g., 'Jaja, para eso estamos. Buenas tardes.'"
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C025",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Alicia Bermúdez. Just so you know, this call may be recorded for quality. How can I help you today?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand the customer's situation and confirms understanding: 'What's the truck?', 'Is it for personal use, or work?', 'Any accidents or violations?', 'What coverage are you looking for?', then summarizes: 'Okay: 2023 Ram 1500 Big Horn, personal use with occasional towing, clean record, full coverage...'"
+    },
+    "c3_compliance": {
+      "score": 0,
+      "justification": "Agent guarantees a final rate 'locked in' regardless of underwriting, which is a prohibited statement: 'No, that's your final rate, locked in, no matter what underwriting finds.'"
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent sets a concrete next step with specific owner and timeframe: 'I'll call you Friday at noon to see where you are with the purchase.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's concerns without escalation throughout the call."
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C026",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Rosario Ontiveros. Le comento que esta llamada puede ser grabada para calidad. ¿En qué le puedo servir?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks questions to understand the customer's situation before proposing: '¿Me da su nombre completo?' and confirms understanding: 'Efectivamente, es el Aveo 2019 rojo, y su renovación vence el día treinta de este mes, o sea en nueve días.'"
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'Le comento que esta llamada puede ser grabada para calidad.' and no prohibited statements found."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next steps with specific owner and timeframe: confirmation emails sent today to customer and son, and printed policy arriving in about ten days: 'la confirmación va a su correo y al de su hijo Jorge hoy mismo. Además le va a llegar su póliza impresa por correo postal a su domicilio en unos diez días.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, handles volume issue politely, and keeps call on track throughout, e.g., 'Claro que sí, con mucho gusto. ¿Así me escucha mejor?' and '¿Hay algo más en que le pueda ayudar el día de hoy?'."
+    },
+    "total": 50
+  },
+  {
+    "call_id": "C027",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at the start: 'Gracias por llamar a Seguros Confianza, le atiende Iris Manzano. This call may be recorded for quality, le comento. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks about the customer's issue with the receipt but does not explore the coverage change request or confirm understanding before moving to resolution: 'Perfecto, sí, ahorita lo vemos. Empecemos con el recibo, ¿qué duda trae?' Missing full discovery and confirmation for both issues."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality, le comento.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 5,
+      "justification": "The duplicate charge issue is resolved with a refund and timeframe, but the coverage change request is not addressed or given a next step: 'Ya estoy generando el reembolso... Le regresa a su misma tarjeta en un plazo de tres a cinco días hábiles.' No concrete next step for coverage change."
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's concerns calmly throughout the call."
+    },
+    "total": 40
+  },
+  {
+    "call_id": "C028",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Thank you for calling Seguros Confianza, this is Omar Valle, and this call may be recorded. How can I help?'"
+    },
+    "c2_discovery": {
+      "score": 5,
+      "justification": "Agent asks a clarifying question about the policy before proposing next steps but does not fully explore the customer's situation or confirm full understanding: 'Just to confirm, this is about the renewal on your policy ending in 4471, the CR-V?' Missing deeper discovery and confirmation for a 10."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'and this call may be recorded.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent sets a concrete next step with specific owner and timeframe: 'I'll call you tomorrow at 4pm from this same number with the renewal options laid out.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer speak, keeps call on track, and handles customer's time constraint professionally throughout."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C029",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company name and own name, and offers help at the start: 'Muy buenas tardes, gracias por llamar a Seguros Confianza, le atiende Valeria Cisneros, para servirle. ¿En qué le puedo ayudar?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand vehicles, coverage, usage, and history, then confirms understanding before proposing: 'Entonces resumo: Mazda 3 2022 y HR-V 2023, ambos amplia, uso personal, sin siniestros, hoy pagan tres mil cuatrocientos en total.'"
+    },
+    "c3_compliance": {
+      "score": 5,
+      "justification": "Recording disclosure is given late near the end: 'le comento que esta llamada puede ser grabada con fines de calidad, es un aviso que le debo dar.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Agent sets a concrete next step with specific owner and timeframe: 'Le llamo el jueves a las cinco para resolver dudas y, si les convence, arrancamos.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's skepticism calmly without escalation."
+    },
+    "total": 45
+  },
+  {
+    "call_id": "C030",
+    "c1_greeting": {
+      "score": 10,
+      "justification": "Agent greets, states company and own name, and offers help at call start: 'Gracias por llamar a Seguros Confianza, le atiende Pablo Rentería. This call may be recorded for quality, le comento de una vez. ¿En qué le ayudo?'"
+    },
+    "c2_discovery": {
+      "score": 10,
+      "justification": "Agent asks multiple questions to understand customer's vehicle, coverage needs, and confirms understanding: '¿Qué carro es?', '¿Y qué es lo que trae en mente?', '¿Uso personal?', '¿Siniestros recientes?', and confirms coverage choice clearly at 00:38 and 00:55."
+    },
+    "c3_compliance": {
+      "score": 10,
+      "justification": "Recording disclosure given near start: 'This call may be recorded for quality, le comento de una vez.' No prohibited statements detected."
+    },
+    "c4_resolution": {
+      "score": 10,
+      "justification": "Concrete next step with specific owner and timeframe: agent will send documents by email and call tomorrow at 10 to activate policy: 'Se los mando a pedir por correo ahorita mismo con la solicitud, y mañana a las diez le llamo para activar.'"
+    },
+    "c5_professionalism": {
+      "score": 10,
+      "justification": "Agent is courteous, lets customer finish, keeps call on track, and handles customer's questions positively without escalation throughout the call."
+    },
+    "total": 50
+  }
+]

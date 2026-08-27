@@ -1,0 +1,89 @@
+{
+  "n_labeled_calls": 15,
+  "n_compared_scores": 75,
+  "n_correct": 63,
+  "accuracy": 0.84,
+  "accuracy_by_criterion": {
+    "c1_greeting": 0.9333333333333333,
+    "c2_discovery": 0.6666666666666666,
+    "c3_compliance": 1.0,
+    "c4_resolution": 0.8666666666666667,
+    "c5_professionalism": 0.7333333333333333
+  },
+  "exact_call_match_accuracy": 0.4,
+  "within_one_level_accuracy": 0.9866666666666667,
+  "disagreements": [
+    {
+      "call_id": "C003",
+      "criterion": "c2_discovery",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C004",
+      "criterion": "c2_discovery",
+      "label": 0,
+      "predicted": 5
+    },
+    {
+      "call_id": "C004",
+      "criterion": "c5_professionalism",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C005",
+      "criterion": "c2_discovery",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C008",
+      "criterion": "c2_discovery",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C008",
+      "criterion": "c5_professionalism",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C009",
+      "criterion": "c5_professionalism",
+      "label": 0,
+      "predicted": 5
+    },
+    {
+      "call_id": "C011",
+      "criterion": "c4_resolution",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C012",
+      "criterion": "c1_greeting",
+      "label": 0,
+      "predicted": 10
+    },
+    {
+      "call_id": "C014",
+      "criterion": "c4_resolution",
+      "label": 0,
+      "predicted": 5
+    },
+    {
+      "call_id": "C015",
+      "criterion": "c2_discovery",
+      "label": 5,
+      "predicted": 10
+    },
+    {
+      "call_id": "C015",
+      "criterion": "c5_professionalism",
+      "label": 5,
+      "predicted": 10
+    }
+  ]
+}
