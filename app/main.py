@@ -234,8 +234,6 @@ def main() -> None:
         results = run_pipeline()
         payload = [item.model_dump() for item in results]
         logger.info("%s", json.dumps(payload, ensure_ascii=False, indent=2))
-        dump_grades(results)
-        logger.info("Wrote %s grades to %s", len(results), RESULTS_PATH)
     except Exception:
         logger.error("Failed to complete the pipeline")
     report = calculate_accuracy(results_path=RESULTS_PATH)
